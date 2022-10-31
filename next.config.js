@@ -6,7 +6,9 @@
       loader: 'akamai',
       path: '',
     },
-    assetPrefix: './',
+    env: {
+      BACKEND_URL: '/portfolio',
+    },
   };
   
   module.exports = nextConfig;

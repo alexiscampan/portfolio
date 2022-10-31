@@ -3,7 +3,7 @@ import Link from 'next/link';
 const PrefixedLink = ({ href, as = href, children, ...props }) => (
   <Link
     href={href}
-    as={`${process.env.pathPrefix}${as}`}
+    as={`${process.env.BACKEND_URL}${as}`}
     {...props}
   >
     {children}
