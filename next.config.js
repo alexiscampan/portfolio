@@ -9,4 +9,4 @@
     assetPrefix: './',
   };
   
-  export default   nextConfig;
+  module.exports = nextConfig;
