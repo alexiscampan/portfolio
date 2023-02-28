@@ -15,7 +15,7 @@ const Hero = (props) => (
       <SectionText>
         Hello, I'm Alexis a Junior Full Stack engineer passioned by new technologies, machine learning, and cloud developement
       </SectionText>
-      <Button onClick={()=> window.location = "https://drive.google.com/file/d/1KyZe21v7X1Bz9oHkM9vB9HQQZpRzNQhL/view?usp=sharing"}>Learn More</Button>
+      <Button onClick={()=> window.location = "https://drive.google.com/file/d/1EIaEHustzNxkDI-Wvcdrd3jFA6laIdNs/view?usp=sharing"}>Learn More</Button>
     </LeftSection>
   </Section>
 );
