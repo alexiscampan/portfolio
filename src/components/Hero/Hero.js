@@ -13,9 +13,9 @@ const Hero = (props) => (
         My personal Portfolio
       </SectionTitle>
       <SectionText>
-        Hello, I'm Alexis a Junior Full Stack engineer passioned by new technologies, machine learning, and cloud developement
+        Hello, I'm Alexis a Junior Full Stack engineer passionate by new technologies, machine learning, and cloud development
       </SectionText>
-      <Button onClick={()=> window.location = "https://drive.google.com/file/d/1LrgRUVITnv4OrVwJWMCtMuLhehXESgWz/view?usp=sharing"}>Learn More</Button>
+      <Button onClick={()=> window.location = "https://drive.google.com/file/d/1dM6EDLV3W2tt7ZxkAa5Rrc0iVBBhYY8R/view?usp=sharing"}>Learn More</Button>
     </LeftSection>
   </Section>
 );

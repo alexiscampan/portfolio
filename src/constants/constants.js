@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: 'Road Signs detection',
+    title: 'Road Sign detection',
     description: "Using YoloV5 and Mapillary Traffic Sign Dataset, I've built a custom model able to detect over 300 types of traffic signs.",
       image: '/images/road-signs.png',
       tags: ['YoloV5', 'Mapillary', 'PyTorch'],

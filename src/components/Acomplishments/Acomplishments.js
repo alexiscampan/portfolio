@@ -5,7 +5,7 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 10, text: 'Learned Languages'},
-  { number: 2, text: 'Years of enterprise experience', },
+  { number: 3, text: 'Years of working experience', },
   { number: 5, text: 'Years working with data', },
   { number: 10, text: 'Countries visited', }
 ];
@@ -13,7 +13,7 @@ const data = [
 const Acomplishments = () => (
   <Section>
     <SectionTitle>
-      Personnal Accompishments
+      Personal Accomplishments
     </SectionTitle>
     <Boxes>
       {data.map((card, index)=>(
