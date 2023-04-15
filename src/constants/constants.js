@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Golang Course',
-    description: "This is a code repository for the \"Go in 24 hours\" I've read. All the code that I've done is here and was my entry point to the Go programming.",
+    title: 'Go.pkg',
+    description: "This is a code repository that contains useful pkg that I've created. I am using these packages in my personal projects.",
       image: '/images/golang.png',
       tags: ['Golang', 'Mage'],
-    source: 'https://www.amazon.fr/Hours-Sams-Teach-Yourself-Programming/dp/0672338033r',
-    visit: 'https://github.com/alexiscampan/Go_course',
+    source: 'https://magefile.org/',
+    visit: 'https://github.com/alexiscampan/go.pkg',
     id: 2,
   },
   {
